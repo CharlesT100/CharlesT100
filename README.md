@@ -1,6 +1,6 @@
 ### Hello 👋
 Welcome to my Github profile.
-<br/> My name is Charles Thomas and I am currently a software engineer in California, USA working with Java, SQL & Angular.
+<br/> My name is Charles Thomas and I am currently a software engineer in California, USA.
 
 ###### need to contact me?
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CharlesT100)
@@ -12,20 +12,14 @@ ___
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="50%" height="auto" />
 
 ### 🌱 Currently Working On
-- Languages: GoLang & Rust
+- Languages: C++, Swift, GoLang & Rust
 - Efficient Sysyem & SQL DB Design 
 - Advanced SQL query composition
 
 
-### :muscle: Challenging Myself With
-- Machine Learning Accreditation
-- Kubernetes
-- Stock Market Robot
-
-
-### ⚡ Free Time
+### 🎱  Personal
 - Football :soccer: 
-- Pool 🎱 
+- Pool
 - Cooking :bomb:
 
 ___
